@@ -6,6 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## Start the Machine Learning Model for Recomendation System
+
+Open the recomendation folder and open the app.py
+In terminal write
+### streamlit run app.py 
+To run the Recomendation system model 
+
 ### `npm start`
 
 Runs the app in the development mode.\
